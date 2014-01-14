@@ -1,0 +1,8 @@
+# netbeans project dir
+nbproject/
+
+# reports and similar...
+reports/
+
+# local administration scripts
+local/
